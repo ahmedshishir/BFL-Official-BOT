@@ -1,1 +1,0 @@
-[null,{"name":"hi","permissions":"NONE","restriction":"1","actions":[{"channel":"0","varName":"","message":"হ্যাঁ ভাইয়া কেমন আছেন? কি অবস্থা ? বিচি খারায়?","storage":"2","varName2":"mention","name":"Send Message"}]}]
