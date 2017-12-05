@@ -1,8 +1,9 @@
-/*
- * Discord Bot Maker Bot
- * Version 2.0.0
- * Robert Borghese
- */
+const Discord = require('discord.js');
+const client = new Discord.Client();
+
+client.on('ready', () => {
+    console.log('I am ready!');
+});
 
 const DBM = {};
 const DiscordJS = DBM.DiscordJS = require('discord.js');
